@@ -3,7 +3,7 @@
 GET {{baseUrl}}/games
 
 ###
-GET {{baseUrl}}/games/2
+GET {{baseUrl}}/games/3
 
 ###
 POST  {{baseUrl}}/games
